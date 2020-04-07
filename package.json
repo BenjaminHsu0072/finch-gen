@@ -1,0 +1,26 @@
+{
+  "name": "finch-gen",
+  "version": "0.1.0",
+  "bin": {
+    "finch-norm" : "bin/main.js",
+    "finch-min" : "bin/min.js",
+    "finch-full" : "bin/full.js"
+  },
+  "description": "Cli tool for using Finch",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [],
+  "author": "BenjaminHsu",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminHsu0072/finch-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenjaminHsu0072/finch-gen/issues"
+  },
+  "homepage": "https://github.com/BenjaminHsu0072/finch-gen#readme",
+  "devDependencies": {
+    "@types/node": "^13.11.0"
+  }
+}
