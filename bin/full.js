@@ -17,7 +17,7 @@ let cPackage =`{
   "main": "index.js",
   "keywords": [],
   "dependencies": {
-    "tsfinch": "^0.1.3",
+    "tsfinch": "^0.1.7",
     "finch-db" : "^0.1.2"
   },
   "devDependencies": {

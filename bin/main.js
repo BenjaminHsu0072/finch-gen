@@ -17,7 +17,7 @@ let cPackage =`{
   "main": "index.js",
   "keywords": [],
   "dependencies": {
-    "tsfinch": "^0.1.3"
+    "tsfinch": "^0.1.7"
   },
   "devDependencies": {
     "@types/node": "^13.11.0"
