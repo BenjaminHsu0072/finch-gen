@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "dependencies": {
+    "tsfinch": "^0.2.0",
+    "finch-log": "^0.1.2",
+    "finch-tools": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.0"
+  }
+}
